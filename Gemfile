@@ -18,6 +18,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'shoulda-matchers'
   gem 'dotenv-rails'
+  gem "factory_bot_rails"
 
 end
 
